@@ -12,7 +12,10 @@ Not my first repo, sorry.
    
 <!-- hello there -->
 ~~The world is flat.~~
-==very important words==
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 😢
 - [x] Write the press release
 - [ ] Update the website
