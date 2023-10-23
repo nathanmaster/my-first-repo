@@ -11,3 +11,9 @@ Not my first repo, sorry.
 3. planes
    
 <!-- hello there -->
+~~The world is flat.~~
+==very important words==
+😢
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
